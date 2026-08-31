@@ -7,6 +7,7 @@ Durable source of truth for the training project.
 - Outdoor **7A sport climbing within 12 months**
 - Long-term **7B bouldering**
 - Arms improve; bench and legs maintain
+- Direct abdominal development is a physique priority
 
 ## Current phase
 **Cut → performance → lean bulk**
@@ -38,7 +39,7 @@ Working hypothesis: technical movement is promising; forearm/power-endurance is 
 ## Physical status
 - Knee: one bad day after water park; currently good.
 - Back: fully recovered; prior episodes of back/sciatic pain after heavy deadlifting.
-- Shoulder: previous issue with pulling/dead hanging, not pushing. A couple of pull-ups possible with slight discomfort and no apparent strength loss. Horizontal row currently symptom-free.
+- Shoulder: pulling/dead-hanging issue. Before climbing, pull-ups can produce tingling and an estimated ~20% strength drop. Symptoms improve during the session and are absent by the end. Pushing is unaffected. Horizontal row currently symptom-free. Lat pulldown remains in the program for the first 1–2 weeks as a tolerance test and can be removed if symptoms persist/worsen.
 - Finger/A2: mild late-session sensation on crimpy climbing; did not impede crimping and resolved during the following climb. Progress loading conservatively.
 
 ## Body baseline
@@ -67,36 +68,42 @@ RP Strength-inspired, not an RP template:
 - Climbing fatigue must be included in the recovery budget.
 
 Muscle priorities:
-- **High:** lateral delts, biceps, triceps
+- **High:** lateral delts, biceps, triceps, abs
 - **Medium-high:** upper chest
 - **Medium:** back
-- **Maintain:** quads, hamstrings, calves, core, bench strength
+- **Maintain:** quads, hamstrings, calves, bench strength
 
-Important: climbing provides essentially no meaningful triceps hypertrophy stimulus and surprisingly little biceps stimulus for this user, so direct arm work is required.
+Climbing provides essentially no meaningful triceps hypertrophy stimulus and surprisingly little biceps stimulus for this user, so direct arm work is required.
+
+The user responds well to direct abdominal training, so the program targets approximately **6–8 hard direct ab sets/week**, primarily loaded cable crunches and leg raises. Pallof presses remain for anti-rotation/stability but are not counted as equivalent hypertrophy work.
 
 ## First mesocycle exercise framework
-### Gym A — Push + Arms
+### Gym A — Push + Arms + Abs
 1. Bench press
 2. Incline DB press
 3. Cable lateral raise
 4. Cable curl
 5. Seated cable triceps pushdown/extension
+6. Cable crunch — 3 sets
 
 ### Gym B — Legs + Core
 1. Leg press
 2. Romanian/stiff-leg deadlift
-3. Lying/seated leg curl
+3. Lying leg curl, leverage machine
 4. Over-the-knee reverse lunge / unilateral movement
-5. Calf raise
-6. Pallof press
+5. Standing calf raise, dumbbell
+6. Pallof press — 2 sets
+7. Hanging leg raise — 2–3 sets
 
-### Gym C — Upper Physique
+### Gym C — Upper Physique + Abs
 1. Incline DB press
 2. Technogym low row / chest-supported row
-3. Cable lateral raise
-4. Rear-delt fly
-5. Cable curl
-6. Cable triceps extension/pushdown
+3. Lat pulldown
+4. Cable lateral raise
+5. Rear-delt fly
+6. Cable curl
+7. Cable triceps extension/pushdown
+8. Cable crunch — 3 sets
 
 Keep lower-body volume maintenance-oriented. Avoid unnecessary grip-intensive accessories and excessive pulling volume. Be conservative with heavy hinges because of back history.
 
